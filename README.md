@@ -2,9 +2,10 @@
 **《基于矩阵分解的推荐算法研究》**
 
 ## 笔记仓库
-- [Github](git@github.com:2694048168/UndergraduateGraduationProject.git)
-<br>
-- [Gitee](git@gitee.com:weili_yzzcq/UndergraduateGraduationProject.git)
+[Github](git@github.com:2694048168/UndergraduateGraduationProject.git)
+
+
+[Gitee](git@gitee.com:weili_yzzcq/UndergraduateGraduationProject.git)
 
 ## Software
 
